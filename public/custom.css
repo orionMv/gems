@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+table .selected {
+	
+	color: #FFF;
+	background-color: #3c8dbc;
+}
+
+#employees tbody tr {cursor:pointer;}
